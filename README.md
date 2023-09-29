@@ -69,11 +69,11 @@ This Snake Game is a classic arcade game where you control a snake to eat food a
 
 ## Files
 
-- [main.py](/main.py): The main Python script that runs the Snake Game.
-- [high_score.txt](/high_score.txt): A text file that stores the highest score achieved in the game.
-- [snake.py](/snake.py): Python script containing the Snake class.
-- [food.py](/food.py): Python script containing the Food class.
-- [scoreboard.py](/scoreboard.py): Python script containing the ScoreBoard class.
+- [main.py](/main.py)  : The main Python script that runs the Snake Game.
+- [high_score.txt](/high_score.txt)  : A text file that stores the highest score achieved in the game.
+- [snake.py](/snake.py)  : Python script containing the Snake class.
+- [food.py](/food.py)  : Python script containing the Food class.
+- [scoreboard.py](/scoreboard.py)  : Python script containing the ScoreBoard class.
 
 
 ## Contributing
