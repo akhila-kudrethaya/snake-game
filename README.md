@@ -85,4 +85,3 @@ This Snake Game project is licensed under the MIT License. See the [LICENSE](LIC
 
 ---
 
-Feel free to customize the README further to provide more details about the content and functionality of each of your Python files or any other relevant information about your project.
